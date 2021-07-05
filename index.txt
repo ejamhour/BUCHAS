@@ -1,0 +1,240 @@
+DateObject[{2021, 6, 4, 12, 13, 19}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Fri 4 Jun 2021 12_13_19.txt"
+DateObject[{2021, 6, 4, 12, 30, 2}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Fri 4 Jun 2021 12_30_02.txt"
+DateObject[{2021, 6, 4, 12, 47, 19}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Fri 4 Jun 2021 12_47_19.txt"
+DateObject[{2021, 6, 4, 13, 4, 36}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Fri 4 Jun 2021 13_04_36.txt"
+DateObject[{2021, 6, 4, 13, 21, 53}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Fri 4 Jun 2021 13_21_53.txt"
+DateObject[{2021, 6, 4, 13, 38, 35}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Fri 4 Jun 2021 13_38_35.txt"
+DateObject[{2021, 6, 4, 13, 55, 18}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Fri 4 Jun 2021 13_55_18.txt"
+DateObject[{2021, 6, 4, 14, 13, 9}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Fri 4 Jun 2021 14_13_09.txt"
+DateObject[{2021, 6, 4, 14, 31, 0}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Fri 4 Jun 2021 14_31_00.txt"
+DateObject[{2021, 6, 4, 14, 47, 43}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Fri 4 Jun 2021 14_47_43.txt"
+DateObject[{2021, 6, 4, 15, 4, 25}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Fri 4 Jun 2021 15_04_25.txt"
+DateObject[{2021, 6, 4, 15, 21, 42}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Fri 4 Jun 2021 15_21_42.txt"
+DateObject[{2021, 6, 4, 15, 39, 0}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Fri 4 Jun 2021 15_39_00.txt"
+DateObject[{2021, 6, 4, 15, 55, 42}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Fri 4 Jun 2021 15_55_42.txt"
+DateObject[{2021, 6, 4, 16, 12, 59}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Fri 4 Jun 2021 16_12_59.txt"
+DateObject[{2021, 6, 4, 16, 29, 41}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Fri 4 Jun 2021 16_29_41.txt"
+DateObject[{2021, 6, 4, 16, 46, 24}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Fri 4 Jun 2021 16_46_24.txt"
+DateObject[{2021, 6, 4, 17, 3, 7}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Fri 4 Jun 2021 17_03_07.txt"
+DateObject[{2021, 6, 4, 17, 20, 23}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Fri 4 Jun 2021 17_20_23.txt"
+DateObject[{2021, 6, 4, 17, 37, 6}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Fri 4 Jun 2021 17_37_06.txt"
+DateObject[{2021, 6, 4, 17, 53, 49}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Fri 4 Jun 2021 17_53_49.txt"
+DateObject[{2021, 6, 4, 18, 11, 5}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Fri 4 Jun 2021 18_11_05.txt"
+DateObject[{2021, 6, 4, 18, 27, 48}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Fri 4 Jun 2021 18_27_48.txt"
+DateObject[{2021, 6, 4, 18, 45, 39}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Fri 4 Jun 2021 18_45_39.txt"
+DateObject[{2021, 6, 4, 19, 2, 56}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Fri 4 Jun 2021 19_02_56.txt"
+DateObject[{2021, 6, 4, 19, 20, 13}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Fri 4 Jun 2021 19_20_13.txt"
+DateObject[{2021, 6, 4, 19, 38, 39}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Fri 4 Jun 2021 19_38_39.txt"
+DateObject[{2021, 6, 4, 19, 55, 21}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Fri 4 Jun 2021 19_55_21.txt"
+DateObject[{2021, 6, 4, 20, 13, 13}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Fri 4 Jun 2021 20_13_13.txt"
+DateObject[{2021, 6, 4, 20, 29, 56}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Fri 4 Jun 2021 20_29_56.txt"
+DateObject[{2021, 6, 4, 20, 46, 38}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Fri 4 Jun 2021 20_46_38.txt"
+DateObject[{2021, 6, 4, 21, 3, 55}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Fri 4 Jun 2021 21_03_55.txt"
+DateObject[{2021, 6, 4, 21, 21, 46}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Fri 4 Jun 2021 21_21_46.txt"
+DateObject[{2021, 6, 4, 21, 39, 5}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Fri 4 Jun 2021 21_39_05.txt"
+DateObject[{2021, 6, 4, 21, 55, 47}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Fri 4 Jun 2021 21_55_47.txt"
+DateObject[{2021, 6, 4, 22, 12, 30}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Fri 4 Jun 2021 22_12_30.txt"
+DateObject[{2021, 6, 4, 22, 30, 22}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Fri 4 Jun 2021 22_30_22.txt"
+DateObject[{2021, 6, 4, 22, 49, 21}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Fri 4 Jun 2021 22_49_21.txt"
+DateObject[{2021, 6, 4, 23, 6, 4}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Fri 4 Jun 2021 23_06_04.txt"
+DateObject[{2021, 6, 4, 23, 22, 47}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Fri 4 Jun 2021 23_22_47.txt"
+DateObject[{2021, 6, 4, 23, 40, 4}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Fri 4 Jun 2021 23_40_04.txt"
+DateObject[{2021, 6, 4, 23, 57, 21}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Fri 4 Jun 2021 23_57_21.txt"
+DateObject[{2021, 6, 5, 0, 14, 4}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 00_14_04.txt"
+DateObject[{2021, 6, 5, 0, 30, 47}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 00_30_47.txt"
+DateObject[{2021, 6, 5, 0, 47, 30}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 00_47_30.txt"
+DateObject[{2021, 6, 5, 1, 4, 13}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 01_04_13.txt"
+DateObject[{2021, 6, 5, 1, 20, 56}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 01_20_56.txt"
+DateObject[{2021, 6, 5, 1, 38, 13}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 01_38_13.txt"
+DateObject[{2021, 6, 5, 1, 54, 56}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 01_54_56.txt"
+DateObject[{2021, 6, 5, 2, 11, 38}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 02_11_38.txt"
+DateObject[{2021, 6, 5, 2, 28, 21}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 02_28_21.txt"
+DateObject[{2021, 6, 5, 2, 45, 38}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 02_45_38.txt"
+DateObject[{2021, 6, 5, 3, 2, 21}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 03_02_21.txt"
+DateObject[{2021, 6, 5, 3, 19, 4}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 03_19_04.txt"
+DateObject[{2021, 6, 5, 3, 36, 21}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 03_36_21.txt"
+DateObject[{2021, 6, 5, 3, 53, 4}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 03_53_04.txt"
+DateObject[{2021, 6, 5, 4, 11, 29}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 04_11_29.txt"
+DateObject[{2021, 6, 5, 4, 28, 46}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 04_28_46.txt"
+DateObject[{2021, 6, 5, 4, 46, 3}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 04_46_03.txt"
+DateObject[{2021, 6, 5, 5, 3, 20}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 05_03_20.txt"
+DateObject[{2021, 6, 5, 5, 20, 37}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 05_20_37.txt"
+DateObject[{2021, 6, 5, 5, 37, 20}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 05_37_20.txt"
+DateObject[{2021, 6, 5, 5, 54, 3}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 05_54_03.txt"
+DateObject[{2021, 6, 5, 6, 10, 46}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 06_10_46.txt"
+DateObject[{2021, 6, 5, 6, 28, 2}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 06_28_02.txt"
+DateObject[{2021, 6, 5, 6, 44, 45}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 06_44_45.txt"
+DateObject[{2021, 6, 5, 7, 1, 28}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 07_01_28.txt"
+DateObject[{2021, 6, 5, 7, 18, 10}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 07_18_10.txt"
+DateObject[{2021, 6, 5, 7, 34, 53}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 07_34_53.txt"
+DateObject[{2021, 6, 5, 7, 52, 44}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 07_52_44.txt"
+DateObject[{2021, 6, 5, 8, 9, 27}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 08_09_27.txt"
+DateObject[{2021, 6, 5, 8, 26, 44}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 08_26_44.txt"
+DateObject[{2021, 6, 5, 8, 43, 27}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 08_43_27.txt"
+DateObject[{2021, 6, 5, 9, 0, 44}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 09_00_44.txt"
+DateObject[{2021, 6, 5, 9, 18, 35}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 09_18_35.txt"
+DateObject[{2021, 6, 5, 9, 35, 52}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 09_35_52.txt"
+DateObject[{2021, 6, 5, 9, 52, 34}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 09_52_34.txt"
+DateObject[{2021, 6, 5, 10, 9, 51}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 10_09_51.txt"
+DateObject[{2021, 6, 5, 10, 27, 9}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 10_27_09.txt"
+DateObject[{2021, 6, 5, 10, 43, 51}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 10_43_51.txt"
+DateObject[{2021, 6, 5, 11, 0, 34}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 11_00_34.txt"
+DateObject[{2021, 6, 5, 11, 17, 51}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 11_17_51.txt"
+DateObject[{2021, 6, 5, 11, 34, 33}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 11_34_33.txt"
+DateObject[{2021, 6, 5, 11, 51, 16}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 11_51_16.txt"
+DateObject[{2021, 6, 5, 12, 8, 33}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 12_08_33.txt"
+DateObject[{2021, 6, 5, 12, 26, 25}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 12_26_25.txt"
+DateObject[{2021, 6, 5, 12, 43, 42}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 12_43_42.txt"
+DateObject[{2021, 6, 5, 13, 0, 24}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 13_00_24.txt"
+DateObject[{2021, 6, 5, 13, 18, 49}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 13_18_49.txt"
+DateObject[{2021, 6, 5, 13, 36, 41}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 13_36_41.txt"
+DateObject[{2021, 6, 5, 13, 53, 23}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 13_53_23.txt"
+DateObject[{2021, 6, 5, 14, 11, 48}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 14_11_48.txt"
+DateObject[{2021, 6, 5, 14, 28, 30}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 14_28_30.txt"
+DateObject[{2021, 6, 5, 14, 46, 22}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 14_46_22.txt"
+DateObject[{2021, 6, 5, 15, 3, 4}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 15_03_04.txt"
+DateObject[{2021, 6, 5, 15, 20, 21}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 15_20_21.txt"
+DateObject[{2021, 6, 5, 15, 37, 4}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 15_37_04.txt"
+DateObject[{2021, 6, 5, 15, 54, 21}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 15_54_21.txt"
+DateObject[{2021, 6, 5, 16, 11, 37}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 16_11_37.txt"
+DateObject[{2021, 6, 5, 16, 28, 20}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 16_28_20.txt"
+DateObject[{2021, 6, 5, 16, 45, 3}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 16_45_03.txt"
+DateObject[{2021, 6, 5, 17, 1, 46}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 17_01_46.txt"
+DateObject[{2021, 6, 5, 17, 19, 3}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 17_19_03.txt"
+DateObject[{2021, 6, 5, 17, 35, 46}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 17_35_46.txt"
+DateObject[{2021, 6, 5, 17, 52, 30}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 17_52_30.txt"
+DateObject[{2021, 6, 5, 18, 9, 12}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 18_09_12.txt"
+DateObject[{2021, 6, 5, 18, 25, 56}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 18_25_56.txt"
+DateObject[{2021, 6, 5, 18, 42, 39}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 18_42_39.txt"
+DateObject[{2021, 6, 5, 18, 59, 22}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 18_59_22.txt"
+DateObject[{2021, 6, 5, 19, 16, 4}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 19_16_04.txt"
+DateObject[{2021, 6, 5, 19, 32, 47}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 19_32_47.txt"
+DateObject[{2021, 6, 5, 19, 50, 4}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 19_50_04.txt"
+DateObject[{2021, 6, 5, 20, 6, 47}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 20_06_47.txt"
+DateObject[{2021, 6, 5, 20, 24, 39}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 20_24_39.txt"
+DateObject[{2021, 6, 5, 20, 41, 22}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 20_41_22.txt"
+DateObject[{2021, 6, 5, 20, 58, 39}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Sat 5 Jun 2021 20_58_39.txt"
+DateObject[{2021, 6, 8, 10, 12, 33}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Tue 8 Jun 2021 10_12_33.txt"
+DateObject[{2021, 6, 8, 10, 29, 15}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Tue 8 Jun 2021 10_29_15.txt"
+DateObject[{2021, 6, 8, 10, 41, 46}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Tue 8 Jun 2021 10_41_46.txt"
+DateObject[{2021, 6, 8, 10, 59, 3}, "Instant", "Gregorian", -3.] -> 
+ "BATEIAS2\\cisei_Tue 8 Jun 2021 10_59_03.txt"
