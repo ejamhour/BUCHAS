@@ -1,0 +1,300 @@
+DateObject[{2021, 6, 23, 15, 36, 34}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 15_36_34.txt"
+DateObject[{2021, 6, 23, 15, 39, 48}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 15_39_48.txt"
+DateObject[{2021, 6, 23, 15, 43, 0}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 15_43_00.txt"
+DateObject[{2021, 6, 23, 15, 46, 13}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 15_46_13.txt"
+DateObject[{2021, 6, 23, 15, 49, 25}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 15_49_25.txt"
+DateObject[{2021, 6, 23, 15, 52, 38}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 15_52_38.txt"
+DateObject[{2021, 6, 23, 15, 55, 52}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 15_55_52.txt"
+DateObject[{2021, 6, 23, 15, 59, 5}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 15_59_05.txt"
+DateObject[{2021, 6, 23, 16, 2, 17}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 16_02_17.txt"
+DateObject[{2021, 6, 23, 16, 5, 31}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 16_05_31.txt"
+DateObject[{2021, 6, 23, 16, 8, 45}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 16_08_45.txt"
+DateObject[{2021, 6, 23, 16, 11, 58}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 16_11_58.txt"
+DateObject[{2021, 6, 23, 16, 15, 11}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 16_15_11.txt"
+DateObject[{2021, 6, 23, 16, 18, 25}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 16_18_25.txt"
+DateObject[{2021, 6, 23, 16, 21, 39}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 16_21_39.txt"
+DateObject[{2021, 6, 23, 16, 24, 51}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 16_24_51.txt"
+DateObject[{2021, 6, 23, 16, 30, 5}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 16_30_05.txt"
+DateObject[{2021, 6, 23, 16, 33, 17}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 16_33_17.txt"
+DateObject[{2021, 6, 23, 16, 36, 31}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 16_36_31.txt"
+DateObject[{2021, 6, 23, 16, 39, 44}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 16_39_44.txt"
+DateObject[{2021, 6, 23, 16, 42, 57}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 16_42_57.txt"
+DateObject[{2021, 6, 23, 16, 46, 9}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 16_46_09.txt"
+DateObject[{2021, 6, 23, 16, 49, 22}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 16_49_22.txt"
+DateObject[{2021, 6, 23, 16, 52, 35}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 16_52_35.txt"
+DateObject[{2021, 6, 23, 16, 55, 48}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 16_55_48.txt"
+DateObject[{2021, 6, 23, 16, 59, 1}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 16_59_01.txt"
+DateObject[{2021, 6, 23, 17, 2, 13}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 17_02_13.txt"
+DateObject[{2021, 6, 23, 17, 5, 26}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 17_05_26.txt"
+DateObject[{2021, 6, 23, 17, 8, 39}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 17_08_39.txt"
+DateObject[{2021, 6, 23, 17, 11, 52}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 17_11_52.txt"
+DateObject[{2021, 6, 23, 17, 15, 5}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 17_15_05.txt"
+DateObject[{2021, 6, 23, 17, 18, 19}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 17_18_19.txt"
+DateObject[{2021, 6, 23, 17, 21, 32}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 17_21_32.txt"
+DateObject[{2021, 6, 23, 17, 24, 45}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 17_24_45.txt"
+DateObject[{2021, 6, 23, 17, 27, 59}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 17_27_59.txt"
+DateObject[{2021, 6, 23, 17, 31, 12}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 17_31_12.txt"
+DateObject[{2021, 6, 23, 17, 34, 25}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 17_34_25.txt"
+DateObject[{2021, 6, 23, 17, 37, 38}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 17_37_38.txt"
+DateObject[{2021, 6, 23, 17, 40, 52}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 17_40_52.txt"
+DateObject[{2021, 6, 23, 17, 44, 7}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 17_44_07.txt"
+DateObject[{2021, 6, 23, 17, 47, 21}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 17_47_21.txt"
+DateObject[{2021, 6, 23, 17, 50, 34}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 17_50_34.txt"
+DateObject[{2021, 6, 23, 17, 53, 48}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 17_53_48.txt"
+DateObject[{2021, 6, 23, 17, 57, 0}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 17_57_00.txt"
+DateObject[{2021, 6, 23, 18, 0, 13}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 18_00_13.txt"
+DateObject[{2021, 6, 23, 18, 3, 26}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 18_03_26.txt"
+DateObject[{2021, 6, 23, 18, 6, 40}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 18_06_40.txt"
+DateObject[{2021, 6, 23, 18, 9, 54}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 18_09_54.txt"
+DateObject[{2021, 6, 23, 18, 13, 7}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 18_13_07.txt"
+DateObject[{2021, 6, 23, 18, 16, 20}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 18_16_20.txt"
+DateObject[{2021, 6, 23, 18, 19, 34}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 18_19_34.txt"
+DateObject[{2021, 6, 23, 18, 22, 47}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 18_22_47.txt"
+DateObject[{2021, 6, 23, 18, 26, 1}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 18_26_01.txt"
+DateObject[{2021, 6, 23, 18, 29, 14}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 18_29_14.txt"
+DateObject[{2021, 6, 23, 18, 32, 28}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 18_32_28.txt"
+DateObject[{2021, 6, 23, 18, 35, 41}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 18_35_41.txt"
+DateObject[{2021, 6, 23, 18, 38, 55}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 18_38_55.txt"
+DateObject[{2021, 6, 23, 18, 42, 8}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 18_42_08.txt"
+DateObject[{2021, 6, 23, 18, 45, 21}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 18_45_21.txt"
+DateObject[{2021, 6, 23, 18, 48, 34}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 18_48_34.txt"
+DateObject[{2021, 6, 23, 18, 51, 48}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 18_51_48.txt"
+DateObject[{2021, 6, 23, 18, 55, 2}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 18_55_02.txt"
+DateObject[{2021, 6, 23, 18, 58, 15}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 18_58_15.txt"
+DateObject[{2021, 6, 23, 19, 1, 28}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 19_01_28.txt"
+DateObject[{2021, 6, 23, 19, 4, 41}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 19_04_41.txt"
+DateObject[{2021, 6, 23, 19, 7, 55}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 19_07_55.txt"
+DateObject[{2021, 6, 23, 19, 11, 9}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 19_11_09.txt"
+DateObject[{2021, 6, 23, 19, 14, 23}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 19_14_23.txt"
+DateObject[{2021, 6, 23, 19, 17, 37}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 19_17_37.txt"
+DateObject[{2021, 6, 23, 19, 20, 50}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 19_20_50.txt"
+DateObject[{2021, 6, 23, 19, 24, 3}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 19_24_03.txt"
+DateObject[{2021, 6, 23, 19, 27, 17}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 19_27_17.txt"
+DateObject[{2021, 6, 23, 19, 30, 30}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 19_30_30.txt"
+DateObject[{2021, 6, 23, 19, 33, 44}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 19_33_44.txt"
+DateObject[{2021, 6, 23, 19, 36, 58}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 19_36_58.txt"
+DateObject[{2021, 6, 23, 19, 40, 11}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 19_40_11.txt"
+DateObject[{2021, 6, 23, 19, 43, 24}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 19_43_24.txt"
+DateObject[{2021, 6, 23, 19, 46, 38}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 19_46_38.txt"
+DateObject[{2021, 6, 23, 19, 49, 51}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 19_49_51.txt"
+DateObject[{2021, 6, 23, 19, 53, 5}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 19_53_05.txt"
+DateObject[{2021, 6, 23, 19, 56, 18}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 19_56_18.txt"
+DateObject[{2021, 6, 23, 19, 59, 31}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 19_59_31.txt"
+DateObject[{2021, 6, 23, 20, 2, 44}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 20_02_44.txt"
+DateObject[{2021, 6, 23, 20, 5, 57}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 20_05_57.txt"
+DateObject[{2021, 6, 23, 20, 9, 10}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 20_09_10.txt"
+DateObject[{2021, 6, 23, 20, 12, 23}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 20_12_23.txt"
+DateObject[{2021, 6, 23, 20, 15, 36}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 20_15_36.txt"
+DateObject[{2021, 6, 23, 20, 18, 49}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 20_18_49.txt"
+DateObject[{2021, 6, 23, 20, 22, 3}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 20_22_03.txt"
+DateObject[{2021, 6, 23, 20, 25, 16}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 20_25_16.txt"
+DateObject[{2021, 6, 23, 20, 28, 30}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 20_28_30.txt"
+DateObject[{2021, 6, 23, 20, 31, 42}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 20_31_42.txt"
+DateObject[{2021, 6, 23, 20, 34, 55}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 20_34_55.txt"
+DateObject[{2021, 6, 23, 20, 38, 8}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 20_38_08.txt"
+DateObject[{2021, 6, 23, 20, 41, 21}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 20_41_21.txt"
+DateObject[{2021, 6, 23, 20, 44, 34}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 20_44_34.txt"
+DateObject[{2021, 6, 23, 20, 47, 49}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 20_47_49.txt"
+DateObject[{2021, 6, 23, 20, 51, 2}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 20_51_02.txt"
+DateObject[{2021, 6, 23, 20, 54, 15}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 20_54_15.txt"
+DateObject[{2021, 6, 23, 20, 57, 29}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 20_57_29.txt"
+DateObject[{2021, 6, 23, 21, 0, 42}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 21_00_42.txt"
+DateObject[{2021, 6, 23, 21, 3, 55}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 21_03_55.txt"
+DateObject[{2021, 6, 23, 21, 7, 8}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 21_07_08.txt"
+DateObject[{2021, 6, 23, 21, 10, 22}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 21_10_22.txt"
+DateObject[{2021, 6, 23, 21, 13, 35}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 21_13_35.txt"
+DateObject[{2021, 6, 23, 21, 16, 49}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 21_16_49.txt"
+DateObject[{2021, 6, 23, 21, 20, 2}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 21_20_02.txt"
+DateObject[{2021, 6, 23, 21, 23, 15}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 21_23_15.txt"
+DateObject[{2021, 6, 23, 21, 26, 28}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 21_26_28.txt"
+DateObject[{2021, 6, 23, 21, 29, 41}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 21_29_41.txt"
+DateObject[{2021, 6, 23, 21, 32, 54}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 21_32_54.txt"
+DateObject[{2021, 6, 23, 21, 36, 7}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 21_36_07.txt"
+DateObject[{2021, 6, 23, 21, 39, 21}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 21_39_21.txt"
+DateObject[{2021, 6, 23, 21, 42, 34}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 21_42_34.txt"
+DateObject[{2021, 6, 23, 21, 45, 48}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 21_45_48.txt"
+DateObject[{2021, 6, 23, 21, 49, 2}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 21_49_02.txt"
+DateObject[{2021, 6, 23, 21, 52, 15}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 21_52_15.txt"
+DateObject[{2021, 6, 23, 21, 55, 30}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 21_55_30.txt"
+DateObject[{2021, 6, 23, 21, 58, 44}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 21_58_44.txt"
+DateObject[{2021, 6, 23, 22, 1, 56}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 22_01_56.txt"
+DateObject[{2021, 6, 23, 22, 5, 10}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 22_05_10.txt"
+DateObject[{2021, 6, 23, 22, 8, 23}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 22_08_23.txt"
+DateObject[{2021, 6, 23, 22, 11, 36}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 22_11_36.txt"
+DateObject[{2021, 6, 23, 22, 14, 49}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 22_14_49.txt"
+DateObject[{2021, 6, 23, 22, 18, 3}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 22_18_03.txt"
+DateObject[{2021, 6, 23, 22, 21, 16}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 22_21_16.txt"
+DateObject[{2021, 6, 23, 22, 24, 29}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 22_24_29.txt"
+DateObject[{2021, 6, 23, 22, 27, 42}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 22_27_42.txt"
+DateObject[{2021, 6, 23, 22, 30, 56}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 22_30_56.txt"
+DateObject[{2021, 6, 23, 22, 34, 9}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 22_34_09.txt"
+DateObject[{2021, 6, 23, 22, 37, 22}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 22_37_22.txt"
+DateObject[{2021, 6, 23, 22, 40, 35}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 22_40_35.txt"
+DateObject[{2021, 6, 23, 22, 43, 48}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 22_43_48.txt"
+DateObject[{2021, 6, 23, 22, 47, 2}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 22_47_02.txt"
+DateObject[{2021, 6, 23, 22, 50, 15}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 22_50_15.txt"
+DateObject[{2021, 6, 23, 22, 53, 28}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 22_53_28.txt"
+DateObject[{2021, 6, 23, 22, 56, 41}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 22_56_41.txt"
+DateObject[{2021, 6, 23, 22, 59, 54}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 22_59_54.txt"
+DateObject[{2021, 6, 23, 23, 3, 7}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 23_03_07.txt"
+DateObject[{2021, 6, 23, 23, 6, 20}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 23_06_20.txt"
+DateObject[{2021, 6, 23, 23, 9, 33}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 23_09_33.txt"
+DateObject[{2021, 6, 23, 23, 12, 47}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 23_12_47.txt"
+DateObject[{2021, 6, 23, 23, 16, 1}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 23_16_01.txt"
+DateObject[{2021, 6, 23, 23, 19, 15}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 23_19_15.txt"
+DateObject[{2021, 6, 23, 23, 22, 28}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 23_22_28.txt"
+DateObject[{2021, 6, 23, 23, 25, 41}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 23_25_41.txt"
+DateObject[{2021, 6, 23, 23, 28, 54}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 23_28_54.txt"
+DateObject[{2021, 6, 23, 23, 32, 7}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 23_32_07.txt"
+DateObject[{2021, 6, 23, 23, 35, 21}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 23_35_21.txt"
+DateObject[{2021, 6, 23, 23, 38, 34}, "Instant", "Gregorian", -3.] -> 
+ "LAB\\cisei_Wed 23 Jun 2021 23_38_34.txt"
